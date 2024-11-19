@@ -2,7 +2,7 @@
 
 namespace GitExercise
 {
-    public class Startu
+    public class Startup
     {
         public static void Main()
         {
