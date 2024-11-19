@@ -6,6 +6,18 @@ namespace GitExercise
     {
         public static void Main()
         {
+              private const string Passwrod="abcd1234";
+bool isAuthorized= CheckCredentials();
+            if(!isAuthorized0)
+            {
+                Console.WriteLine("Access denied");
+                Console.ReadKey(true);
+                return;
+            }
+            Console.WriteLine("Console Calculator App");
+            Console.WriteLine(new string('-', 15));
+            Console.Write()
+               
             Console.WriteLine("Console Calculator App");
             Console.WriteLine(new string('-', 15));
 
